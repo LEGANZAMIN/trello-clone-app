@@ -537,9 +537,9 @@ var app = (function () {
     			img = element("img");
     			if (img.src !== (img_src_value = "/images/trello-logo.svg")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "Trello");
-    			attr_dev(img, "class", "logo svelte-6dilyr");
+    			attr_dev(img, "class", "logo svelte-jdcwue");
     			add_location(img, file, 1, 4, 14);
-    			attr_dev(header, "class", "svelte-6dilyr");
+    			attr_dev(header, "class", "svelte-jdcwue");
     			add_location(header, file, 0, 0, 0);
     		},
     		l: function claim(nodes) {
